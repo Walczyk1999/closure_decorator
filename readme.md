@@ -10,5 +10,6 @@
 3. Inner function have to use something from outer function (variable, other function, class), and only this will be
    recorded
 ## Use case:
-- persistence (trwałość)## Cons
+- persistence (trwałość)
+## Cons
 - if you not understand you can leak memory
